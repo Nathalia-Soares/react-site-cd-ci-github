@@ -1,6 +1,6 @@
 # Projeto Retro Games React
 
-![HTML Badge](https://img.shields.io/badge/HTML-5-orange) ![CSS Badge](https://img.shields.io/badge/CSS-3-blue) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellowgreen) ![React Badge](https://img.shields.io/badge/React-18.2.0-blue)
+![HTML Badge](https://img.shields.io/badge/HTML-5-orange) ![CSS Badge](https://img.shields.io/badge/CSS-3-blue) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellowgreen) ![React Badge](https://img.shields.io/badge/React-18.2.0-blue) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Nathalia-Soares_react-site-cd-ci-github&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Nathalia-Soares_react-site-cd-ci-github)
 
 
 ## Descrição
